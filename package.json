@@ -1,0 +1,23 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salzeo/nytreact.git"
+  },
+  "author": "Sally Bradfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salzeo/nytreact/issues"
+  },
+  "homepage": "https://github.com/Salzeo/nytreact#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "express-generator": "^4.15.5"
+  }
+}
